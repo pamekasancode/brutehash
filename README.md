@@ -1,0 +1,2 @@
+# brutehash
+Brute force hash
