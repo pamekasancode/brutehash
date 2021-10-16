@@ -1,4 +1,4 @@
-# Copyright Pamekasancode
+# Created by Pamekasancode
 # Gunakan dengan bijak
 import hashlib, os, sys
 m = "\033[91m"
