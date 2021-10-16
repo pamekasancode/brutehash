@@ -5,10 +5,7 @@ m = "\033[91m"
 p = "\033[97m"
 h = "\033[92m"
 def clear():
-	try:
-		os.system("clear")
-	except OSError:
-		os.system("cls")
+	os.system('cls||clear')
 def banner():
 	clear()
 	print (f"""{m}
