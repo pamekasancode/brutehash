@@ -17,7 +17,7 @@ def banner():
     /---(  __     _/_  _ (/   _   _  (/
  ) / ____)/ (_(_(_(___(/_/ )_(_(_/_)_/ )_
 (_/ (
-{p}Author	: Firmansyahken
+{p}Author	: Pamekasancode
 ketik help untuk menampilkan command
 """)
 banner()
